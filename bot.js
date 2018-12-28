@@ -9,4 +9,4 @@ channel.send(هلا);
 }, 30)
 })
 
-client.login('528307636492435456.JAL8WS5QGxP6LCKAm-JveBew-P4');
+client.login('NTI3NjU3NDY2NTc4NzMxMDA4.DwgWvw.T9cnCrO1gWf9A3q-WJZtOI1OPKI');
