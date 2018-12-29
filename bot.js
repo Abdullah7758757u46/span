@@ -7,17 +7,18 @@ client.on("ready", () => {
 let channel =     client.channels.get("528319778213986304")
 setInterval(function() {
 channel.send(`انا جوعان وكلوني`);
-}, 10)
-})
-client.on("ready", () => {
-let channel =     client.channels.get("528319778213986304")
-setInterval(function() {
 channel.send(`انا جوعان وكلوني`);
-}, 10)
-})
-client.on("ready", () => {
-let channel =     client.channels.get("528319778213986304")
-setInterval(function() {
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
+channel.send(`انا جوعان وكلوني`);
 channel.send(`انا جوعان وكلوني`);
 }, 10)
 })
