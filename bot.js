@@ -20,7 +20,7 @@ channel.send(`انا جوعان وكلوني`);
 channel.send(`انا جوعان وكلوني`);
 channel.send(`انا جوعان وكلوني`);
 channel.send(`انا جوعان وكلوني`);
-}, 1.0)
+}, 11.0)
 })
 
 client.login('NTI3NjU3NDY2NTc4NzMxMDA4.DwgWvw.T9cnCrO1gWf9A3q-WJZtOI1OPKI');
