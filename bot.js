@@ -11,3 +11,4 @@ channel.send(`انا جوعان وكلوني`);
 })
 
 client.login('NTI3NjU3NDY2NTc4NzMxMDA4.DwgWvw.T9cnCrO1gWf9A3q-WJZtOI1OPKI');
+client.login('NTI4NDE0MzU3ODczMzYwODk2.Dwh8hw.FVSFNmweS7OZ6RgM-2AWzpaDtz8');
