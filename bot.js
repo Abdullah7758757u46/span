@@ -8,13 +8,11 @@ let channel =     client.channels.get("528319778213986304")
 setInterval(function() {
 }, 10 )
 })
-
 client.on("ready", () => {
 let channel =     client.channels.get("528319778213986304")
 setInterval(function() {
 }, 10 )
 })
-
 client.on("ready", () => {
 let channel =     client.channels.get("528319778213986304")
 setInterval(function() {
