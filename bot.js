@@ -6,9 +6,18 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("528319778213986304")
 setInterval(function() {
-channel.send(`اريد فلوس اني فقير`);
-channel.send(`اريد فلوس اني فقير`);
-channel.send(`اريد فلوس اني فقير`);
+}, 10 )
+})
+
+client.on("ready", () => {
+let channel =     client.channels.get("528319778213986304")
+setInterval(function() {
+}, 10 )
+})
+
+client.on("ready", () => {
+let channel =     client.channels.get("528319778213986304")
+setInterval(function() {
 }, 10 )
 })
 
